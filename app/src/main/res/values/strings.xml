@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM101</string>
+    <string name="email_description">Email Input section</string>
+    <string name="password_description">Password Input section</string>
+</resources>
