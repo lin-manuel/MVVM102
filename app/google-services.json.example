@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "94088070893",
-    "project_id": "authyauthke",
-    "storage_bucket": "authyauthke.firebasestorage.app"
+    "project_number": "YOUR_FIREBASE_PROJECT_NUMBER",
+    "project_id": "YOUR_FIREBASE_PROJECT_ID",
+    "storage_bucket": "YOUR_FIREBASE_STORAGE_BUCKET"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:94088070893:android:91150c7e27c4b34da6aee4",
+        "mobilesdk_app_id": "YOUR_FIREBASE_MOBILESDK_APP_ID",
         "android_client_info": {
           "package_name": "com.jayr.mvvm101"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCY0lD4IF5shVOVPm2pakX4ROPsox30L3w"
+          "current_key": "YOUR_FIREBASE_API_KEY"
         }
       ],
       "services": {
